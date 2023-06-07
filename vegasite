@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Rafa and Math US Trip</title>
+  <style>
+    /* Add your custom CSS styles here */
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+    }
+
+    header {
+      background-color: #333;
+      color: #fff;
+      padding: 20px;
+      text-align: center;
+    }
+
+    h1 {
+      margin: 0;
+    }
+
+    section {
+      padding: 50px;
+    }
+
+    footer {
+      background-color: #333;
+      color: #fff;
+      padding: 20px;
+      text-align: center;
+    }
+
+    footer p {
+      margin: 0;
+    }
+
+    img {
+      max-width: 100%;
+      height: auto;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Rafa and Math US Trip</h1>
+  </header>
+
+  <section id="introduction">
+    <h2>Our Unforgettable US Adventure</h2>
+    <p>Join us, Rafa and Math, on our first trip to the United States! As boyfriends with a shared passion for exploration and adventure, we are excited to embark on an incredible journey to discover the breathtaking beauty of the US National Parks.</p>
+    <img src="images/couple.jpg" alt="Rafa and Math" />
+  </section>
+
+  <section id="itinerary">
+    <h2>Our Magical Itinerary</h2>
+    <table>
+      <tr>
+        <th>Day</th>
+        <th>Destination</th>
+        <th>Description</th>
+        <th>Estimated Travel Time</th>
+        <th>Departure Time</th>
+      </tr>
+      <tr>
+        <td>Day 1</td>
+        <td>Arrival in Las Vegas</td>
+        <td>Welcome to the dazzling city of Las Vegas! We'll kick off our journey with an exciting evening exploring the vibrant nightlife and iconic attractions.</td>
+        <td>N/A</td>
+        <td>8:00 PM</td>
+      </tr>
+      <tr>
+        <td>Day 2-3</td>
+        <td>Grand Canyon (South Rim)</td>
+        <td>Prepare to be awe-struck as we venture into the majestic Grand Canyon. We'll spend two days hiking the scenic trails, capturing stunning views, and immersing ourselves in the beauty of this natural wonder.</td>
+        <td>4-5 hours</td>
+        <td>8:00 AM</td>
+      </tr>
+      <tr>
+        <td>Day 4</td>
+        <td>Antelope Canyon and Horseshoe Bend</td>
+        <td>Get ready for an enchanting experience as we explore the mesmerizing slot canyons of Antelope Canyon and witness the breathtaking views at Horseshoe Bend.</td>
+        <td>2-3 hours</td>
+        <td>8:00 AM</td>
+      </tr>
+      <tr>
+        <td>Day 5-6</td>
+        <td>Bryce Canyon National Park</td>
+        <td>Immerse yourself in the otherworldly landscapes of Bryce Canyon. We'll spend two days hiking amidst the towering hoodoos, capturing incredible photos, and marveling at the natural amphitheaters.</td>
+        <td>2-3 hours</td>
+        <td>8:00 AM</td>
+      </tr>
+      <tr>
+        <td>Day 7-8</td>
+        <td>Zion National Park</td>
+        <td>Prepare for an adventure-packed two days at Zion National Park. We'll hike the thrilling trails, spot wildlife, and bask in the beauty of the narrow canyons and towering cliffs.</td>
+        <td>2 hours</td>
+        <td>8:00 AM</td>
+      </tr>
+      <tr>
+        <td>Day 9</td>
+        <td>Departure from Las Vegas</td>
+        <td>Our incredible US Parks journey comes to an end as we bid farewell to the amazing memories we've created. Depart from Las Vegas with hearts filled with joy and a desire for future adventures!</td>
+        <td>N/A</td>
+        <td>12:00 PM</td>
+      </tr>
+    </table>
+  </section>
+
+  <section id="accommodation">
+    <h2>Cozy Accommodations</h2>
+    <p>Throughout our trip, we'll stay in comfortable and charming accommodations that provide a perfect retreat after our adventures. Here are some recommended options:</p>
+    <ul>
+      <li>Las Vegas: [Hotel Name] - [Website Link]</li>
+      <li>Grand Canyon: [Hotel Name] - [Website Link]</li>
+      <li>Page: [Hotel Name] - [Website Link]</li>
+      <li>Bryce Canyon: [Hotel Name] - [Website Link]</li>
+      <li>Springdale (Zion): [Hotel Name] - [Website Link]</li>
+    </ul>
+  </section>
+
+  <section id="restaurants">
+    <h2>Delicious Dining</h2>
+    <p>We believe that good food is an essential part of any memorable journey. Along the way, we'll indulge in delightful culinary experiences at local restaurants and cafes. Here are some recommended dining options:</p>
+    <ul>
+      <li>Las Vegas: [Restaurant Name] - [Website Link]</li>
+      <li>Grand Canyon: [Restaurant Name] - [Website Link]</li>
+      <li>Page: [Restaurant Name] - [Website Link]</li>
+      <li>Bryce Canyon: [Restaurant Name] - [Website Link]</li>
+      <li>Springdale (Zion): [Restaurant Name] - [Website Link]</li>
+    </ul>
+  </section>
+
+  <section id="cost">
+    <h2>Estimated Costs</h2>
+    <p>As we plan our adventure, we estimate an average cost of $<!-- Add your estimated average cost per day here --> per day, including accommodation, transportation, meals, and park fees.</p>
+  </section>
+
+  <footer>
+    <p>Join us, Rafa and Math, on this magical journey across the US National Parks. We can't wait to create cherished memories together and share the beauty of nature with all our loved ones!</p>
+  </footer>
+</body>
+</html>
